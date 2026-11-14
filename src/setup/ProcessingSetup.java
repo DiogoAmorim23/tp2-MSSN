@@ -37,6 +37,11 @@ public class ProcessingSetup extends PApplet {
 	public void keyPressed() {
 		app.keyPressed(this);
 	}
+
+	@Override
+	public void keyReleased() {
+		app.keyReleased(this);
+	}
 	
 	public static void main(String[] args) {
 		// app = new Hello();
