@@ -11,3 +11,4 @@ public class Brake extends Behavior {
     public PVector getDesiredVelocity(Boid me) {
         return new PVector();
     }
+}
