@@ -11,7 +11,7 @@ public class MainParteC {
 
 		// ProcessingSetup.app = new UmPlanetaApp();               // alinea 1
 		// ProcessingSetup.app = new NPlanetasApp();            // alinea 2
-		ProcessingSetup.app = new SistemaSolarParticulasApp(); // alinea 3
+		// ProcessingSetup.app = new SistemaSolarParticulasApp(); // alinea 3
 
 		PApplet.main(ProcessingSetup.class);
 
